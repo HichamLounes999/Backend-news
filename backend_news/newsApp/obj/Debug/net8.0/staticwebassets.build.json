@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5wvyd8xTaHldUosR5fOYne5QmlbO7Sd+pTtohSFEpoQ=",
+  "Source": "newsApp",
+  "BasePath": "_content/newsApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

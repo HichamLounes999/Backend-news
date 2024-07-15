@@ -1,0 +1,6 @@
+@newsApp_HostAddress = http://localhost:5187
+
+GET {{newsApp_HostAddress}}/latestNews
+Accept: application/json
+
+###
